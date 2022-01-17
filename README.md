@@ -17,7 +17,7 @@ The project tree:
 
 <p align="center">
 <img src = "doc/img/tree.PNG?raw=true" width="55%"/>
-<img src = "doc/img/amclcapture.PNG?raw=true" width="55%"/>
+<img src = "doc/img/amcl_capture.PNG?raw=true" width="55%"/>
 </p>
 
 The project is now divided in several folders and now you can easily excecute effectively each file.
